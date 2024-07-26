@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EnassKadree
 - 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Flutter Frame Work
+- 💼 I'm a programming trainer in the Technical Computer Collage
 - 💬 Ask me about Flutter, C#
 - 📫 How to reach me enasskadree2003@gmail.com 
 - ⚡ Fun fact: A developer is a special power that turns tea into code 
