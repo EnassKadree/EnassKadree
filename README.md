@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Flutter Frame Work
 - 💼 I'm a programming trainer in the Technical Computer Collage
 - 💬 Ask me about Flutter, C#
-- 📫 How to reach me enasskadree2003@gmail.com 
+- 📫 How to reach me enasskadree2003@gmail.com  OR linkedin.com/in/enasskadree
 - ⚡ Fun fact: A developer is a special power that turns tea into code 
